@@ -1,3 +1,3 @@
 # On teste çaaaaaaa
 
-![Beau logo](./ric.png RICOU)
+![Beau logo](ric.png RICOU)
